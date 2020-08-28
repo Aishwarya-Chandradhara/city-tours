@@ -5,7 +5,7 @@ export const tourData = [
     img: "https://www.makemytrip.com/travel-guide/media/dg_image/bangalore/Bangalore-Palace.jpg",
     name: "Bangalore Palace Tour",
     info:
-      "Bangalore Palace is a royal palace situated in Bangalore , Karnataka, India, in an area owned by Rev. J. Garrett, the first principal of Bangalore's Central High School, now known as Central College. The beginning of the Palace 's construction is credited to him."
+      "Bangalore Palace is a royal palace situated in Bangalore , Karnataka, India, in an area owned by Rev. J. Garrett, the first principal of Bangalore's Central High School, now known as Central College."
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ export const tourData = [
     img: "https://artravelers.com/tourism/media/images/18/07/11/eff8ede2dd.jpeg",
     name: "Cubbon Park Tour",
     info:
-      "The Cubbon Park, which is known officially as Sri. Chamarajendra Park is a historic park located in the central administrative district, right in the heart of the city. The park offers sylvan surroundings to the building of the State Legislature — the Vidhana Soudha, the High Court Buildings — the Attara Kacheri, and a number of other organizations situated on the outskirts and within the park."
+      "The Cubbon Park, which is known officially as Sri. Chamarajendra Park is a historic park located in the central administrative district, right in the heart of the city."
   },
   {
     id: 4,
@@ -29,6 +29,6 @@ export const tourData = [
     img: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Glasshouse_and_fountain_at_lalbagh.jpg",
     name: "Lalbagh Botanical Garden Tour",
     info:
-      "Lalbagh is one of India's oldest botanical gardens, and a major tourist attraction in South India as well. The Lalbagh Botanical Garden is located in South Bengaluru and is not only one of India's largest botanical gardens, but also the first of its kind, with planned paths, glasshouses and ornamental flowers growing throughout the property."
+      "Lalbagh is one of India's oldest botanical gardens, and a major tourist attraction in South India as well. The Lalbagh Botanical Garden is located in South Bengaluru and is not only one of India's largest botanical gardens, but also the first of its kind."
   }
 ];
